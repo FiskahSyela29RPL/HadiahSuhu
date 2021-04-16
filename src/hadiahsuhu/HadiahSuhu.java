@@ -2,15 +2,8 @@
 package hadiahsuhu;
 import java.util.Scanner;
 
-/**
- *
- * @author Fiskah Syela 29 RPL
- */
 public class HadiahSuhu {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         System.out.println("\t\t\tKonvrensi Suhu Celcius");
         
